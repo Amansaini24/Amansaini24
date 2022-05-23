@@ -22,10 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amansaini_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amansaini_03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-saini-03936621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-saini-03936621a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19174491/aman-saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19174491/aman-saini" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_aman_saini_3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_aman_saini_3/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/saini43432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/saini43432" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-saini-03936621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-saini-03936621a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19174491/aman-saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19174491/aman-saini" height="30" width="40" /></a>
+<a href="https://instagram.com/_aman_saini_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aman_saini_3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/saini43432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saini43432" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
